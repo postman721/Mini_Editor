@@ -1,5 +1,7 @@
 # Mini -  A tiny terminal (curses) text editor.
 
+<img width="486" height="344" alt="Image" src="https://github.com/user-attachments/assets/4e18d2ce-2142-440e-9627-ed127f7b93df" />
+
 A tiny terminal-based text editor written in Python using `curses`.
 
 ## Install (Debian/Ubuntu)
